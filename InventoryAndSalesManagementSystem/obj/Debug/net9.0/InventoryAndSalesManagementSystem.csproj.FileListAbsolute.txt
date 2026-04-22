@@ -1,0 +1,14 @@
+C:\Users\h\concole\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.exe
+C:\Users\h\concole\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.deps.json
+C:\Users\h\concole\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.runtimeconfig.json
+C:\Users\h\concole\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.dll
+C:\Users\h\concole\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.pdb
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.AssemblyInfoInputs.cache
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.AssemblyInfo.cs
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.dll
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\refint\InventoryAndSalesManagementSystem.dll
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.pdb
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.genruntimeconfig.cache
+C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\ref\InventoryAndSalesManagementSystem.dll
