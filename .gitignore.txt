@@ -1,0 +1,11 @@
+# Ignore build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Cache & logs
+*.cache
+*.log
