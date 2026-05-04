@@ -12,3 +12,18 @@ C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\refint\Inv
 C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.pdb
 C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.genruntimeconfig.cache
 C:\Users\h\concole\InventoryAndSalesManagementSystem\obj\Debug\net9.0\ref\InventoryAndSalesManagementSystem.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.exe
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.deps.json
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.runtimeconfig.json
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\bin\Debug\net9.0\InventoryAndSalesManagementSystem.pdb
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.AssemblyInfoInputs.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.AssemblyInfo.cs
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.csproj.CoreCompileInputs.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.sourcelink.json
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\refint\InventoryAndSalesManagementSystem.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.pdb
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\InventoryAndSalesManagementSystem.genruntimeconfig.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\Advance visual programming projects\InventoryAndSalesManagementSystem\obj\Debug\net9.0\ref\InventoryAndSalesManagementSystem.dll

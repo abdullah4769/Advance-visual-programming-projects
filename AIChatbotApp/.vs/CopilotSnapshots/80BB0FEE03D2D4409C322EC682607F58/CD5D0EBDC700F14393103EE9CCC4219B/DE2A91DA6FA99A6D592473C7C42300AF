@@ -1,0 +1,97 @@
+﻿namespace AIChatbotApp;
+
+static class Program
+{
+    [STAThread]
+    static void Main()
+    {
+        Application.EnableVisualStyles();
+        Application.SetCompatibleTextRenderingDefault(false);
+        Application.Run(new ChatForm());
+    }
+}
+
+public class ChatForm : Form
+{
+    private RichTextBox txtChat;
+    private TextBox txtInput;
+    private Button btnSend;
+
+    public ChatForm()
+    {
+        InitializeComponent();
+    }
+
+    private void InitializeComponent()
+    {
+        // Form settings
+        Text = "AI Chatbot";
+        Size = new Size(600, 500);
+        StartPosition = FormStartPosition.CenterScreen;
+        Icon = SystemIcons.Application;
+
+        // Create RichTextBox for chat display
+        txtChat = new RichTextBox
+        {
+            Location = new Point(10, 10),
+            Size = new Size(565, 400),
+            ReadOnly = true,
+            ScrollBars = RichTextBoxScrollBars.Vertical,
+            BorderStyle = BorderStyle.FixedSingle,
+            BackColor = Color.White
+        };
+
+        // Create TextBox for user input
+        txtInput = new TextBox
+        {
+            Location = new Point(10, 420),
+            Size = new Size(465, 30),
+            BorderStyle = BorderStyle.FixedSingle
+        };
+
+        // Create Send Button
+        btnSend = new Button
+        {
+            Location = new Point(485, 420),
+            Size = new Size(90, 30),
+            Text = "Send",
+            BackColor = SystemColors.Control,
+            Cursor = Cursors.Hand
+        };
+
+        // Add click event handler for the button
+        btnSend.Click += BtnSend_Click;
+
+        // Add controls to form
+        Controls.Add(txtChat);
+        Controls.Add(txtInput);
+        Controls.Add(btnSend);
+    }
+
+    private void BtnSend_Click(object? sender, EventArgs e)
+    {
+        if (!string.IsNullOrWhiteSpace(txtInput.Text))
+        {
+            // Add user message to chat
+            txtChat.AppendText($"You: {txtInput.Text}\n", Color.Black);
+            txtChat.AppendText($"Bot: [Waiting for response...]\n", Color.Blue);
+
+            // Clear input
+            txtInput.Clear();
+            txtInput.Focus();
+        }
+    }
+}
+
+// Extension method for appending colored text to RichTextBox
+public static class RichTextBoxExtensions
+{
+    public static void AppendText(this RichTextBox rtb, string text, Color color)
+    {
+        rtb.SelectionStart = rtb.TextLength;
+        rtb.SelectionLength = 0;
+        rtb.SelectionColor = color;
+        rtb.AppendText(text);
+        rtb.SelectionColor = rtb.ForeColor;
+    }
+}

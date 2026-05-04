@@ -1,0 +1,14 @@
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\bin\Debug\net8.0-windows\AIChatbotApp.exe
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\bin\Debug\net8.0-windows\AIChatbotApp.deps.json
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\bin\Debug\net8.0-windows\AIChatbotApp.runtimeconfig.json
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\bin\Debug\net8.0-windows\AIChatbotApp.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\bin\Debug\net8.0-windows\AIChatbotApp.pdb
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.AssemblyInfoInputs.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.AssemblyInfo.cs
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.csproj.CoreCompileInputs.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\refint\AIChatbotApp.dll
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.pdb
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\AIChatbotApp.genruntimeconfig.cache
+D:\Abdullah Abid\6th semester\Advance visual programming\visual projects\AIChatbotApp\AIChatbotApp\obj\Debug\net8.0-windows\ref\AIChatbotApp.dll

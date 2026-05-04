@@ -1,11 +1,26 @@
-# Ignore build folders
+# Visual Studio
+.vs/
+.vscode/
+
+# Build folders
 bin/
 obj/
 
-# User-specific files
+# .NET
+*.dll
+*.exe
+*.pdb
+
+# User files
 *.user
 *.suo
 
-# Cache & logs
-*.cache
+# Logs
 *.log
+
+# Temp
+*.tmp
+
+# OS
+Thumbs.db
+.DS_Store

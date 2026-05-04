@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\visual projects\\AIChatbotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD58572-C98C-48B6-96B5-8C3291AABA19}|AIChatbotApp\\AIChatbotApp.csproj|d:\\abdullah abid\\6th semester\\advance visual programming\\visual projects\\aichatbotapp\\aichatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD58572-C98C-48B6-96B5-8C3291AABA19}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD58572-C98C-48B6-96B5-8C3291AABA19}|AIChatbotApp\\AIChatbotApp.csproj|d:\\abdullah abid\\6th semester\\advance visual programming\\visual projects\\aichatbotapp\\aichatbotapp\\aichatbotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDD58572-C98C-48B6-96B5-8C3291AABA19}|AIChatbotApp\\AIChatbotApp.csproj|solutionrelative:aichatbotapp\\aichatbotapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIChatbotApp",
+              "DocumentMoniker": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\visual projects\\AIChatbotApp\\AIChatbotApp\\AIChatbotApp.csproj",
+              "RelativeDocumentMoniker": "AIChatbotApp\\AIChatbotApp.csproj",
+              "ToolTip": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\visual projects\\AIChatbotApp\\AIChatbotApp\\AIChatbotApp.csproj",
+              "RelativeToolTip": "AIChatbotApp\\AIChatbotApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T01:40:02.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\visual projects\\AIChatbotApp\\AIChatbotApp\\Program.cs",
+              "RelativeDocumentMoniker": "AIChatbotApp\\Program.cs",
+              "ToolTip": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\visual projects\\AIChatbotApp\\AIChatbotApp\\Program.cs",
+              "RelativeToolTip": "AIChatbotApp\\Program.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAADwv48AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T01:35:41.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "RYUEgPxjg94=",
+  "dgSpecHash": "OSNe0KjM2c8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\h\\concole\\InventoryAndSalesManagementSystem\\InventoryAndSalesManagementSystem.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Abdullah Abid\\6th semester\\Advance visual programming\\Advance visual programming projects\\InventoryAndSalesManagementSystem\\InventoryAndSalesManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\falcon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.15\\microsoft.windowsdesktop.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\falcon\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.15\\microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\falcon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.15\\microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "C:\\Users\\falcon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.15\\microsoft.netcore.app.host.win-x64.9.0.15.nupkg.sha512"
+  ],
   "logs": []
 }
