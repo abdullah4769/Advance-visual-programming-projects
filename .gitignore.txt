@@ -1,26 +1,9 @@
-# Visual Studio
 .vs/
 .vscode/
-
-# Build folders
 bin/
 obj/
-
-# .NET
 *.dll
 *.exe
 *.pdb
-
-# User files
-*.user
-*.suo
-
-# Logs
 *.log
-
-# Temp
 *.tmp
-
-# OS
-Thumbs.db
-.DS_Store
